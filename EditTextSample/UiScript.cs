@@ -46,6 +46,8 @@ namespace EditTextSample
 		}
 		public override void Update()
         {
+			DebugText.Print ("Press RETURN to toggle EditText", new Int2 (200, 60));
+
 			if (Input.IsKeyReleased (Keys.Return))
 			{
 				uiEnabled = !uiEnabled;
