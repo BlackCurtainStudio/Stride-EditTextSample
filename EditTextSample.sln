@@ -1,0 +1,11 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditTextSample.Windows", "EditTextSample.Windows\EditTextSample.Windows.csproj", "{0A25CFB4-C975-4533-A00D-E4C2513E3FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditTextSample", "EditTextSample\EditTextSample.csproj", "{3E3E349B-DDCF-4BDB-9E3E-91C5426BF4EF}"
+EndProject
+Global
+EndGlobal
